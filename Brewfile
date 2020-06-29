@@ -10,4 +10,5 @@ brew "imagemagick"
 brew "lynx"
 brew "pyenv"
 brew "tree"
+brew "yarn", link: false
 brew "zsh"
