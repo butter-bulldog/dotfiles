@@ -106,6 +106,12 @@ setopt hist_reduce_blanks
 # 高機能なワイルドカード展開を使用する
 setopt extended_glob
 
+<<<<<<< HEAD
+=======
+# メタ文字をグロブ展開しないように
+setopt nonomatch
+
+>>>>>>> a7cd134ce8a944ce05089ef301fb4e915c529797
 ########################################
 # キーバインド
 
