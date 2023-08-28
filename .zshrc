@@ -167,3 +167,5 @@ case ${OSTYPE} in
 esac
 
 # vim:set ft=zsh:
+
+eval "$(rbenv init -)"
